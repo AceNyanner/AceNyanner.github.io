@@ -16,6 +16,6 @@ welcom to my note
 
 于是又按照网上的hexo教程部署了一下，顺便试着学习了一下git，然后就变成这个样子了
 
-![image]((https://github.com/AceNyanner/AceNyanner.github.io/blob/1a4a9e62427bbd96879d647be826b7679d9fd9cc/img/%E5%BE%B7%E8%8E%89%E8%8E%8E.jpg))
+![image](https://github.com/AceNyanner/AceNyanner.github.io/blob/1a4a9e62427bbd96879d647be826b7679d9fd9cc/img/%E5%BE%B7%E8%8E%89%E8%8E%8E.jpg)
 
 知道branch的用法之后，我保留了原来那个页面，希望有一天我可以把原来的样式和hexo的整合在一起
