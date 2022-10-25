@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://acenyanner.github.io/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,49 +93,49 @@
   
   <url>
     <loc>https://acenyanner.github.io/tags/C/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://acenyanner.github.io/tags/%E5%B0%8Ftips/</loc>
-    <lastmod>2022-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://acenyanner.github.io/tags/git/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://acenyanner.github.io/tags/ros/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://acenyanner.github.io/tags/git/</loc>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://acenyanner.github.io/tags/%E5%90%90%E6%A7%BD/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://acenyanner.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://acenyanner.github.io/tags/%E8%A7%86%E8%A7%89SLAM/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -144,14 +144,14 @@
   
   <url>
     <loc>https://acenyanner.github.io/categories/cs%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://acenyanner.github.io/categories/%E5%90%90%E6%A7%BD/</loc>
-    <lastmod>2022-10-22</lastmod>
+    <lastmod>2022-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
